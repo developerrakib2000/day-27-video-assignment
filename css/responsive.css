@@ -1,0 +1,264 @@
+@media (max-width:1300px) {
+    .container {
+        max-width: 1300px;
+        box-sizing: border-box;
+        padding-left: 20px;
+        padding-right: 10px;
+    }
+  
+    .menu ul li a {
+        padding: 0px 20px;
+        font-size: 14px;
+    }
+    .logo-section span {
+        font-size: 20px;
+    }
+}
+
+/* main-css */
+.menu span{
+display: none;
+}
+
+@media (max-width:1000px) {
+    .banner-section {
+        padding: 150px 0;
+    }
+   
+   
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content h2 {
+        font-size: 20px;
+    }
+    .default-btn {
+        padding: 15px 20px;
+        font-size: 18px;
+    }
+    .header-section{
+        position: relative;
+        margin: 0;
+    }
+    .video-content-right h3 {
+        font-size: 35px;
+        margin-bottom: 25px;
+    }
+    .video-left {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .section-title h1 {
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+    .section-title{
+        margin-top: 20px;
+    }
+    .service-box {
+        width: 48%;
+      
+    }
+    .section-title h2 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+
+    .section-title p {
+        font-size: 22px;
+       
+    }
+    .price-items {
+        width: 98%;
+        margin-right: 2%;
+        margin-bottom: 20px;
+    }
+    .team-title h2 {
+        font-size: 30px;
+    }
+    .member {
+        width: 48%;
+       
+    }
+    .blog-post-item {
+        padding: 51px;
+        box-sizing: border-box;
+    }
+    .blog-post-item img {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:800px) {
+    .logo-section {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .logo-section img {
+        float: inherit;
+        position: relative;
+        top: 20px;
+    }
+    ul {
+       
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .menu-section {
+        width: 100%;
+    }
+    .button-section {
+        width: 200px;
+        position: absolute;
+        right: 0px;
+        top: 90px;
+    }
+    .menu-section {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .menu span {
+        font-size: 40px;
+        color: #6278df;
+        cursor: pointer;
+        display: block;
+        
+    }
+    .banner-section {
+        padding: 100px 0;
+    }
+    
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-content h2 {
+        font-size: 17px;
+    }
+    .default-btn {
+        padding: 12px 18px;
+        font-size: 15px;
+    }
+    .section-title h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .section-title p {
+        font-size: 22px;
+
+    }
+    .section-title{
+        margin-top: 20px;
+    }
+    .service-box {
+        width: 98%;
+      
+    }
+    .section-title h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+
+    .section-title p {
+        font-size: 16px;
+    }
+    .team-title h2 {
+        font-size: 25px;
+    }
+    .member {
+        width: 97%;
+    }
+    .default-email {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .b-heading {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .b-content {
+        width: 100%;
+        font-size: 15px;
+        text-align: center;
+    }
+    .blog-post-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .t-items {
+        width: 98%;
+        margin-bottom: 20px;
+        padding: 50px;
+        box-sizing: border-box;
+        border: 1px solid #767676;
+    }
+    .content-left-map {
+        width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .content-right-form h4 {
+        font-size: 20px;
+       
+    }
+    .content-right-form p {
+        font-size: 15px;
+    }
+    .content-right-form {
+        width: 100%;
+        text-align: center;
+       
+    }
+    .footer p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:550px) {
+    .section-title h1 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .section-title p {
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .section-title{
+        margin-top: 20px;
+    }
+    .service-box {
+        width: 98%;
+      
+    }
+    .section-title h2 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .section-title p {
+        font-size: 12px;
+    }
+    .team-title h2 {
+        font-size: 20px;
+    }
+    .b-heading {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 8px;
+    }
+    .b-content {
+        width: 100%;
+        font-size: 10px;
+        text-align: center;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+}
